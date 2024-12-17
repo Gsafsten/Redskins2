@@ -1,0 +1,111 @@
+h1{
+    text-align: center;
+    
+}
+.h11{
+    color: maroon;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    color: maroon;
+    
+}
+
+div{
+    color: maroon;
+    font-family:Verdana, Tahoma, sans-serif;
+    display: flex;  
+    justify-content: center;
+    text-align: left;   
+}
+.vid{
+    display: flex;
+    justify-content: center;
+    border: gold solid 2px;
+    width: fit-content;
+    margin: 0 auto;
+}
+.tab{
+    display: flex;
+    justify-content: center;
+    border: black solid 5px;
+    width: fit-content;
+    margin: 0 auto;
+}
+.list{
+    font-weight: bold;
+    
+}
+img{
+    width: 230px; 
+    height: 160px; 
+}
+img:hover{
+    transform: scale(1.75);
+}
+a{
+    font-family: sans-serif;
+    color: rgba(0, 0, 255, 0.685);
+    display: block;
+    text-align: center;
+    
+    
+}
+.anch{
+    color: rgba(0, 0, 255, 0.685);
+    font-family:sans-serif
+    /* padding-right: 20px; */
+    padding-top: 5px;
+    
+}
+.resume{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-position: inside; /* Align bullets with text */
+  text-align: left; /* Aligns text within the list to the left */
+  display: block; /* Ensures proper block layout for vertical stacking */
+  width: 850px; /* Make the list width fit its content */
+  margin: 0 auto;
+  border: 5px solid black;
+  background-color: white;
+  
+  
+  padding-left: 20px;
+    
+}
+h3{
+    font-weight: bold;
+    text-decoration: underline;
+}
+span{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.right{
+    color: black;
+    padding-right: 20px;
+    font-size: small;
+}
+.left{
+    color: black;
+    font-weight: bold;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.432);
+}
+.links{
+    display: flex;
+    justify-content: space-between; /* Align items to the right */
+    width: 12.5%;
+    text-align: right;
+    margin-left: auto;
+    
+}
+.name{
+    color: black;
+}
+    
